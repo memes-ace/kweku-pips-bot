@@ -4,7 +4,7 @@
 //|       Auto trade BTCUSD using S&R + Candle Confirmation          |
 //|       For Exness - London & NY Sessions - April 2025             |
 //+------------------------------------------------------------------+
-#property copyright "Rebecca"
+#property copyright "Kwekupips"
 #property version   "1.00"
 #property strict
 
